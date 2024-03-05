@@ -9,4 +9,4 @@ Sweepy
 
 TrisoCraft
 # Do you currently have a contact email?
-Not at the moment, I'm working on making one!
+I do have a contact email, it's noah@trisopcoo.co.uk
