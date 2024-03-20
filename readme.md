@@ -12,5 +12,3 @@ Sweepy
 TrisoCraft
 # Do you currently have a contact email?
 I do have a contact email, it's noah@trisopcoo.co.uk.
-
-https://sweepy-cdn.fr-par-1.linodeobjects.com/TrisoPcoo-Images/TrisoPcoo%20PFP.png
