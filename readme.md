@@ -12,9 +12,7 @@ My name is Noah, also known as TrisoPcoo and Triso.
 
 [EpicCraft](https://epiccraft.org)
 
-and
-
-[My Discord server](https://www.trpco.xyz/discord)
+and [My Discord server](https://www.trpco.xyz/discord)
 # Projects I've worked on.
 pcOS
 
