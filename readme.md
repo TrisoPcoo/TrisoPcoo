@@ -5,7 +5,8 @@ My name is Noah, also known as TrisoPcoo and Triso.
 
 [EpicCraft](https://epiccraft.org)
 # Projects I'm currently working on.
-I'm currently working on:
+**I'm currently working on:**
+
 
 [My YouTube channel](https://youtube.com/@trisopcoo)
 
